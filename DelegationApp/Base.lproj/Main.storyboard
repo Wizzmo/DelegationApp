@@ -80,12 +80,12 @@
                     <navigationItem key="navigationItem" title="Profile" id="76x-Jg-klc">
                         <barButtonItem key="leftBarButtonItem" systemItem="save" id="L0U-KT-BNj">
                             <connections>
-                                <action selector="saveAction:" destination="yTp-H6-yHp" id="6GA-eV-lge"/>
+                                <action selector="saveAction" destination="yTp-H6-yHp" id="gK1-Rs-3F6"/>
                             </connections>
                         </barButtonItem>
                         <barButtonItem key="rightBarButtonItem" systemItem="cancel" id="kkp-OB-0od">
                             <connections>
-                                <action selector="cancelAction:" destination="yTp-H6-yHp" id="tIC-YN-ixL"/>
+                                <action selector="cancelAction" destination="yTp-H6-yHp" id="Wp3-uR-FAn"/>
                             </connections>
                         </barButtonItem>
                     </navigationItem>
